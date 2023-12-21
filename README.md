@@ -1,8 +1,8 @@
 ### Hi there 👋 Andrea here
 
-- :computer: I´m new to coding
-- :bulb: Here to learn
-- :blue_book: Codecool Vienna
+- :computer: Enthusiastic junior web developer
+- :bulb: Lifelong learner
+- :blue_book: Codecool Vienna alumni
 
 <!--
 **andreanichter/andreanichter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
