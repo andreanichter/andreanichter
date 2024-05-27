@@ -1,7 +1,7 @@
 ### Hi there 👋 Andrea here
 
-- :computer: Enthusiastic fullstack developer
-- 👩🏽‍💻: JavaScript, TypeScript, C#
+- :computer: Enthusiastic fullstack developer in training
+- 👩🏽‍💻 JavaScript, TypeScript, C#
 - :bulb: Lifelong learner
 - :blue_book: Codecool
 
