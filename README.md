@@ -1,8 +1,9 @@
 ### Hi there 👋 Andrea here
 
-- :computer: Enthusiastic junior web developer
+- :computer: Enthusiastic fullstack developer
+- 👩🏽‍💻: JavaScript, TypeScript, C#
 - :bulb: Lifelong learner
-- :blue_book: Codecool Vienna alumni
+- :blue_book: Codecool
 
 <!--
 **andreanichter/andreanichter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
